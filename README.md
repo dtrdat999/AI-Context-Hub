@@ -3,6 +3,11 @@
 Đây là repo tổng hợp định hướng học tập, tư duy sản phẩm, tài liệu khóa học AI và các dự án tôi đang xây dựng trong quá trình học **VinUni AI20K Build Cohort 2**.
 
 Mục tiêu của repo này không chỉ là lưu tài liệu, mà còn là một **AI Context Hub**: nơi các AI assistant như ChatGPT, Claude, Gemini, Codex, Cursor hoặc Antigravity có thể đọc để hiểu rõ tôi là ai, tôi đang học gì, tôi đang build gì, và nên hỗ trợ tôi theo hướng nào.
+## AI Context
+
+Nếu bạn là AI assistant, hãy đọc file này trước:
+
+👉 [AI_CONTEXT.md](./AI_CONTEXT.md)
 
 ---
 
